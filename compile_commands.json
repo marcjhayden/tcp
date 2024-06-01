@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/bepho/projects/tcp/build/RelWithDebInfo",
+  "command": "/usr/bin/c++ -Dlibtcp_EXPORTS -I/home/bepho/projects/tcp/src/tcp/../../include -I/home/bepho/projects/tcp/src/tcp -m64 -O2 -g -DNDEBUG -std=gnu++23 -fPIC -o src/tcp/CMakeFiles/libtcp.dir/impl/tcp.cpp.o -c /home/bepho/projects/tcp/src/tcp/impl/tcp.cpp",
+  "file": "/home/bepho/projects/tcp/src/tcp/impl/tcp.cpp",
+  "output": "src/tcp/CMakeFiles/libtcp.dir/impl/tcp.cpp.o"
+},
+{
+  "directory": "/home/bepho/projects/tcp/build/RelWithDebInfo",
+  "command": "/usr/bin/c++ -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -I/home/bepho/projects/tcp/tests/tcp/../../include -I/home/bepho/projects/tcp/src/tcp/../../include -isystem /home/bepho/.conan2/p/b/boosta207cccf13022/p/include -m64 -O2 -g -DNDEBUG -std=gnu++23 -fPIE -o tests/tcp/CMakeFiles/test_libtcp.dir/test-tcp.cpp.o -c /home/bepho/projects/tcp/tests/tcp/test-tcp.cpp",
+  "file": "/home/bepho/projects/tcp/tests/tcp/test-tcp.cpp",
+  "output": "tests/tcp/CMakeFiles/test_libtcp.dir/test-tcp.cpp.o"
+}
+]

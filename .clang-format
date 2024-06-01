@@ -1,0 +1,18 @@
+---
+BasedOnStyle: LLVM
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments:
+  Enabled: true
+  AcrossComments: true
+AlignConsecutiveDeclarations:
+  Enabled: true
+  AcrossComments: true
+AlignEscapedNewlines: Left
+AllowShortBlocksOnASingleLine: Empty
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: WithoutElse
+ColumnLimit: 300
+IndentPPDirectives: BeforeHash
+NamespaceIndentation: All
+SpaceBeforeCpp11BracedList: true
+TabWidth: 2

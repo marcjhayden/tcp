@@ -1,0 +1,2 @@
+---
+Checks: 'modernize-*,performance-*,concurrency-*,readability-*,-readability-magic-numbers,misc-*,clang-analyzer-*,bugprone-*,boost-*,cppcoreguidelines-*,-cppcoreguidelines-avoid-magic-numbers,-readability-function-cognitive-complexity,-bugprone-easily-swappable-parameters'

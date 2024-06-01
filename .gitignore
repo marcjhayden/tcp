@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+.cache
+
+# cmake build dir
+build
